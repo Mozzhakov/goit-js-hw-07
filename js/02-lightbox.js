@@ -26,8 +26,4 @@ const createModal = () => {
   });
 };
 
-galleryContainer.addEventListener("click", (e) => {
-  e.preventDefault();
-});
-
 createModal();
